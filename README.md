@@ -2,6 +2,7 @@
 
 An interactive, live-preview playground built using **Vanilla JavaScript**, **HTML5**, and modern **CSS3 Layouts (Grid & Flexbox)**.
 This application serves as a dynamic documentation tool where users can view, copy production-ready CSS snippets, and paste them into a live testing area to see immediate visual transformations.
+ 🔗 **[Live Demo]( https://eyad-makboul.github.io/CSS_Live_Lab/)**
 
 ## 🚀 Key Features
 
